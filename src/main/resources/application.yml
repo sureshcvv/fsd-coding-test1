@@ -1,0 +1,11 @@
+
+de.flapdoodle.mongodb.embedded.version: 5.0.5
+spring:
+  mongodb.embedded.version: 5.0.5
+  data.mongodb:
+    database: test
+    port: 27017
+    
+#  security.user:
+#    name: user1
+#    password: password
